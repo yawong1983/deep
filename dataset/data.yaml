@@ -1,0 +1,9 @@
+names:
+- cone
+- speed_bump
+- pothole
+- crack
+- manhole
+nc: 5
+train: C:/Users/qiwer/Desktop/school/project/data/train.txt
+val: C:/Users/qiwer/Desktop/school/project/data/val.txt
